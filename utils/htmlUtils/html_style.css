@@ -1,0 +1,13 @@
+
+.center_div{
+    width: 100%;
+    text-align: center;
+}
+.center_child{
+    display: inline-block;
+}
+.content_type{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
